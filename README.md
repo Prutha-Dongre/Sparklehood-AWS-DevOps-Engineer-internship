@@ -1,4 +1,4 @@
-# NimbusKart Cost Hygiene — DevOps Assignment
+# Sparklehood - AWS DevOps Engineer internship Assignment
 
 ## Overview
 
